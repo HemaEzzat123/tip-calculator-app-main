@@ -249,7 +249,7 @@ p span {
   border: 3px solid #26c2ad;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 430px) {
   body {
     justify-content: space-between;
     gap: 40px;
